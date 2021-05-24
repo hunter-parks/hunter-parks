@@ -1,21 +1,21 @@
 ### Hi there 👋
 
 
- 🔭 I’m currently working on Mysql 
+ 🔭 I’m currently working on Javascript
  
- 🌱 I’m currently learning Mysql and Databases
- 
- 👯 I’m looking to collaborate on ...
+ 🌱 I’m currently learning Javascript 
  
  🤔 I’m looking for help with Javascript
  
- 💬 Ask me about ...
+ 💬 Ask me about my recent work, job offers, and/or my CodeUp experience thus far
  
  📫 How to reach me: linkedin.com/in/hunter-parks-752b20212
  
- 😄 Pronouns: he/him
- 
  ⚡ Fun fact: I love bodybuilding
+ 
+ 
+ ![Hunter's GitHub stats](https://github-readme-stats.vercel.app/api?username=hunter-parks&show_icons=true)
+
 <!--
 **hunter-parks/hunter-parks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
