@@ -9,7 +9,7 @@
  
  💬 Ask me about my recent work, job offers, and/or my CodeUp experience thus far
  
- 📫 How to reach me: linkedin.com/in/hunter-parks-752b20212
+ 📫 How to reach me: https://www.linkedin.com/in/hunter-parks-752b20212/
  
  ⚡ Fun fact: I love bodybuilding
  
