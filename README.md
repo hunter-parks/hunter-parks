@@ -14,7 +14,7 @@
  ⚡ Fun fact: I love bodybuilding
  
  
- ![Hunter's GitHub stats](https://github-readme-stats.vercel.app/api?username=hunter-parks&show_icons=true&theme=nord)
+ ![Hunter's GitHub stats](https://github-readme-stats.vercel.app/api?username=hunter-parks&show_icons=true&theme=slateorange)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hunter-parks&layout=compact)](https://github.com/hunter-parks/github-readme-stats)
