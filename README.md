@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 
- 🔭 I’m currently working on Javascript
+ 🔭 I’m currently working on my own website
  
  🌱 I’m currently learning Javascript 
  
- 🤔 I’m looking for help with Javascript
+ 🤔 I’m looking for help with Java
  
  💬 Ask me about my recent work, job offers, and/or my CodeUp experience thus far
  
