@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
- 🔭 I’m currently working on my own website
+ 🔭 I’m currently working on a Udemy Course for Java
  
- 🌱 I’m currently learning Javascript 
+ 🌱 I’m currently learning Java
  
  🤔 I’m looking for help with Java
  
@@ -11,7 +11,7 @@
  
  📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hunter-parks-752b20212/)
  
- ⚡ Fun fact: I love bodybuilding
+ ⚡ Fun fact: I love bodybuilding!!
  
  
  ![Hunter's GitHub stats](https://github-readme-stats.vercel.app/api?username=hunter-parks&show_icons=true&theme=calm)
