@@ -5,8 +5,6 @@
  
  🌱 I’m currently learning Java
  
- 🤔 I’m looking for help with Java
- 
  💬 Ask me about my recent work, job offers, and/or my CodeUp experience thus far
  
  📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hunter-parks-752b20212/)
