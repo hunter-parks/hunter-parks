@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 
- 🔭 I’m currently working on a Udemy Course for Java
+ 🔭 I’m currently working on a Java Udemy Course
  
  🌱 I’m currently learning Java
  
- 💬 Ask me about my recent work, job offers, and/or my CodeUp experience thus far
+ 💬 Ask me about my recent work, job offers, and/or my CodeUp experience
  
  📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hunter-parks-752b20212/)
  
