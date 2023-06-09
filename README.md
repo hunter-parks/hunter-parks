@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
- 🔭 I’m currently working on a Java Udemy Course
+ 🔭 I’m currently working on a Java Linkedln Course
  
  🌱 I’m currently learning Java
  
