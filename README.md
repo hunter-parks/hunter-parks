@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
- 🔭 I’m currently working on a Java Linkedln Course
+ 🔭 I’m currently working on a Front End Developer Course powered by Meta
  
- 🌱 I’m currently learning Java
+ 🌱 I’m currently learning Front End Technologies
  
  💬 Ask me about my recent work, job offers, and/or my CodeUp experience
  
