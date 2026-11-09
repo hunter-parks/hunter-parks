@@ -11,11 +11,13 @@
  
  ⚡ Fun fact: I love bodybuilding!!
  
- 
- ![Hunter's GitHub stats](https://github-readme-stats.vercel.app/api?username=hunter-parks&show_icons=true&theme=calm)
+## 📊 GitHub Stats
 
+![Hunter's GitHub Stats](https://github-stats-extended.vercel.app/api?username=hunter-parks&show_icons=true&theme=calm)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hunter-parks&layout=compact)](https://github.com/hunter-parks/github-readme-stats)
+## 💻 Most Used Languages
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=hunter-parks&layout=compact&theme=calm)
 
 <!--
 **hunter-parks/hunter-parks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
