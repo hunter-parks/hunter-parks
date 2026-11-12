@@ -13,7 +13,8 @@
  
 ## 📊 GitHub Stats
 
-![Hunter's GitHub Stats](https://github-stats-extended.vercel.app/api?username=hunter-parks&show_icons=true&theme=calm)
+![Hunter's GitHub Stats](https://github-stats-extended.vercel.app/api?username=hunter-parks&show_icons=true&theme=calm&include_all_commits=true&show=contributions,all_time_contribs&rank_icon=github)
+
 
 ## 💻 Most Used Languages
 
