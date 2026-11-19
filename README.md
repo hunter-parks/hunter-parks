@@ -1,15 +1,18 @@
-### Hi there 👋
+Hey, I'm Hunter! 👋
 
+💻 I'm a Web Developer & Designer with 4+ years of professional experience building websites, custom functionality, and user-focused digital experiences.
 
- 🔭 I’m currently working on a Front End Developer Course powered by Meta
- 
- 🌱 I’m currently learning Front End Technologies
- 
- 💬 Ask me about my recent work, job offers, and/or my CodeUp experience
- 
- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hunter-parks-752b20212/)
- 
- ⚡ Fun fact: I love bodybuilding!!
+🚀 Currently working on: Building portfolio projects and expanding my software engineering skills.
+
+🌱 Currently learning: Python, SQL, Data Engineering, and Java.
+
+🛠️ My experience: WordPress, WooCommerce, JavaScript, HTML, CSS, UI/UX Design, and custom web development.
+
+🎯 My goal: Transition into software engineering and data engineering while continuing to build practical, real-world applications.
+
+💬 Ask me about: Web development, WordPress, UI/UX, and my recent projects.
+
+🌐 Portfolio: https://hunter-parks-portfolio.vercel.app/
  
 
 ## 📊 GitHub Activity
